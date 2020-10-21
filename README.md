@@ -1,5 +1,5 @@
 # Kernel-Learning
-The m.files includes the MATLAB simulations for the following papers:
+The m.files contain the MATLAB simulations for the following papers:
 
 1-Masoud Badiei Khuzani, Yinyu Ye, Sandy Napel, Lei Xing, "A Mean-Field Theory for Learning the Schönberg Measure of Radial Basis Functions", https://arxiv.org/abs/2006.13330
 
