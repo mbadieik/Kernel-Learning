@@ -9,4 +9,4 @@ To compare our method, we have also included the m.files that are developed by S
 
 3-Aman Sinha, John Duchi, "Learning Kernels with Random Features",  https://papers.nips.cc/paper/6180-learning-kernels-with-random-features
 
-Their codes are placed in the folder named "Sinha_util" to distinguish it from our MATLAB codes. The codes in "Sinha_util" folder are borrowed from Github page: https://github.com/duchi-lab/learning-kernels.
+Their codes are placed in the folder named "Sinha_util" to distinguish it from our MATLAB codes. The codes in "Sinha_util" folder are borrowed from the Github page: https://github.com/duchi-lab/learning-kernels.
