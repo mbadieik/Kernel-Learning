@@ -5,7 +5,7 @@ The m.files includes the MATLAB simulations for the following papers:
 
 2-Masoud Badiei Khuzani, Liyue Shen, Shahin Shahrampour, Lei Xing, "A Mean-Field Theory for Kernel Alignment with Random Features in Generative and Discriminative Models", https://arxiv.org/abs/1909.11820.
 
-To compare our method, we have also included the m.files that are developed by Sinha and Duchi in their papers:
+To compare our proposed kernel learning methods with alternative approaches, we have also included the m.files that are developed by Sinha and Duchi in their papers:
 
 3-Aman Sinha, John Duchi, "Learning Kernels with Random Features",  https://papers.nips.cc/paper/6180-learning-kernels-with-random-features
 
